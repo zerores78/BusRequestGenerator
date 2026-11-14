@@ -1,0 +1,19 @@
+{
+    "department_name": "Название подразделения",
+    "department_number": "XX-00-00",
+    "responsible_name": "Имя Фамилия",
+    "position": "Должность",
+    "phone": "+7 (000) 000-00-00",
+    "default_origin": "Пункт отправления",
+    "default_destination": "Пункт назначения",
+    "default_outbound_departure": "08:10",
+    "default_travel_hours": 1,
+    "default_travel_minutes": 20,
+    "default_return_schedule": {
+        "1": "11:30",
+        "2": "13:20",
+        "3": "15:20",
+        "4": "17:00"
+    },
+    "default_fallback_return_time": "17:00"
+}
